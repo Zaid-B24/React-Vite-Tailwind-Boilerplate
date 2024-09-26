@@ -1,6 +1,6 @@
 export default function App() {
   const handleRedirect = () => {
-    window.location.href = 
+    window.location.href = "https://github.com/Zaid-B24/React-Vite-Tailwind-Boilerplate"
   }
   return (
     <div className="min-h-screen bg-gradient-to-br from-yellow-400 via-yellow-500 to-yellow-600 flex items-center justify-center p-4 sm:p-6 md:p-8">
