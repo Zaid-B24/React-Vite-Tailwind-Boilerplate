@@ -3,7 +3,7 @@
 
 This is a starter pack for creating React projects with Tailwind CSS configured. It uses React version **18.3.1** and Tailwind CSS version **3.4.13**.
 
-![Vite + React + Tailwind](./src/assets/ViteReactTailwind.png)
+![Vite + React + Tailwind](./src/assets/Vite+React+Tailwind.png)
 
 
 ## Usage
